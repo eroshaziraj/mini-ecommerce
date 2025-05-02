@@ -1,0 +1,55 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#ghj {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.crd {
+  width: 300px;
+  height: 480px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  background-color: white;
+}
+
+h1,
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+p {
+  font-size: 15px;
+}
+
+.pointer {
+  cursor: pointer;
+  width: auto;
+  height: auto;
+  background-color: rgb(17, 114, 198);
+  padding: 10px 15px;
+  border-radius: 10px;
+  font-size: 18px;
+  color: white;
+}
+
+img{
+    width: 130px;
+}
+
+.jhk{
+    width: 300px;
+    margin: 30px;
+}
